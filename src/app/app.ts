@@ -15,7 +15,7 @@ export class App {
   location = 'Yogyakarta, Indonesia';
 
   roles = [
-    { label: 'Frontend Developer @gemini', url: 'https://gemini.google.com' },
+    { label: 'Cloud Enginner at kurumi studio', url: 'https://kurumi.dev' },
     { label: 'Angular Enthusiast', url: 'https://angular.dev' },
     { label: 'Founder of NLFTs', url: 'https://nlfts.dev' },
   ];
@@ -37,11 +37,6 @@ export class App {
 
   experiences = [
     {
-      title: 'Frontend Developer',
-      company: 'google inc',
-      period: 'Jan 2026 – sekarang',
-    },
-    {
       title: 'Founder & CEO at NLFTs',
       company: 'NLFTs',
       period: 'Jun 2024 – Des 2024',
@@ -59,7 +54,7 @@ export class App {
   activities = [
     {
       title: 'Anggota Aktif',
-      org: 'Google Developer Student Club UI',
+      org: 'Developer Student Club UNY',
       period: 'Sep 2022 – sekarang',
     },
     {
@@ -71,7 +66,7 @@ export class App {
 
   languages = [
     { name: 'Bahasa Indonesia', level: 'penutur asli' },
-    { name: 'Chinese', level: 'pemula' },
+    { name: 'Chinese', level: 'Mahir' },
   ];
 
   skills = [
